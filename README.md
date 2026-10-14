@@ -1,6 +1,6 @@
-# sublime-MoveByParagraph
+# sublime-MoveByParagraph4
 
-A Sublime Text 2 plugin extension to the move command
+Forked from the original [MoveByParagraph](https://github.com/xsleonard/sublime-MoveByParagraph), this is a upgrade for Sublime Text 4.
 
 A new command is added, `"move_by_paragraph"`.  These `"args"` are accepted:
 
